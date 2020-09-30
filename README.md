@@ -49,7 +49,7 @@ below our paragraphs of text. Before adding a source, we'll add one attribute
 to the opening `<video>` tag, `controls`. This will indicate to the browser to
 always show controls for the embedded video.
 
-Next, we'll add the source. Inside the `<video` tags, add `<source>`, and then,
+Next, we'll add the source. Inside the `<video>` tags, add `<source>`, and then,
 as attributes, add in `src` and `type`. For our `src` attribute, we'll point it
 to our `.mp4` video using a relative path to the file. We also want to
 designate the type of this source as "video/mp4". At this point, our code will

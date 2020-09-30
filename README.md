@@ -121,3 +121,5 @@ git push
 href='https://learn.co/lessons/html5-video-embed-code-along' title='HTML5 Video
 Embed Code-Along'>HTML5 Video Embed Code-Along</a> on Learn.co and start
 learning to code for free.</p>
+
+Thanks for Reading

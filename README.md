@@ -1,4 +1,4 @@
-# HTML5 Video Embed Code-Along
+# HTML5 Video Embbeded Code-Along
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/ymUxDt_mOxU?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
 
@@ -23,7 +23,7 @@ type `git checkout -b embed-video` to start up a new branch for this lesson.
 ### Embedding Videos
 
 Starting from inside your project folder (wherever your HTML files are stored),
-let's create a new folder for videos by typing `mkdir videos` in our terminal.
+let's create a new folder for videos by typing `mkdir videos` in your terminal.
 This folder will appear beside your `images` folder. We'll use two videos
 during this lesson, and we need to get them into our project before we can
 incorporate them into the HTML. With the in-browser IDE, we'll need to use our
@@ -71,7 +71,7 @@ the video.
 
 Well.. every user can watch the video as long as the browser they are using supports
 the `<video>` element itself.  Again, there is still a small percentage of users
-that are using outdated browsers that may not know what to do the HTML5 `<video>` tags.
+that are using outdated browsers they might not know what to do the HTML5 `<video>` tags.
 
 For these users, we can also add a message inside the `<video>` tags. This message display
 if a user's browser doesn't support the HTML5 video element. The message can

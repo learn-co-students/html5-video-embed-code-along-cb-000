@@ -73,8 +73,8 @@ Well.. every user can watch the video as long as the browser they are using supp
 the `<video>` element itself.  Again, there is still a small percentage of users
 that are using outdated browsers that may not know what to do the HTML5 `<video>` tags.
 
-For these users, we can also add a message inside the `<video>` tags. This message display
-if a user's browser doesn't support the HTML5 video element. The message can
+For these users, we can also add a message inside the `<video>` tags. This message will 
+get displayed, if a user's browser doesn't support the HTML5 video element. The message can
 simply be "Your browser does not support HTML5 video", but we want to be nice
 to our users, so we can also go ahead and add a link in this message that opens
 a new page and navigates to a useful site such as
